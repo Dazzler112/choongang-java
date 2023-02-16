@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class C07Scanner {
 	public static void main(String[] args) {
 		String input = """
-				23 48
+				23 40
 				25""";
 		Scanner scanner = new Scanner(input);
 		

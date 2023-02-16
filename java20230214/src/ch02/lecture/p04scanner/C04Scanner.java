@@ -8,7 +8,7 @@ public class C04Scanner {
 		Scanner scanner = new Scanner(input);
 		
 		//3 ,33 ,555,50 하나 하나 읽고싶다 그럼 다음같이
-		int num1 = scanner.nextInt(0);
+		int num1 = scanner.nextInt();
 		System.out.println(num1);
 		scanner.nextInt();
 		int num2 = scanner.nextInt();

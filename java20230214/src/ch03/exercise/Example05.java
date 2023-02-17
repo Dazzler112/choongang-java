@@ -9,6 +9,6 @@ public class Example05 {
 		System.out.println((lengthTop + lengthBottom) * height /2.0 ); //1번) 
 		System.out.println((lengthTop + lengthBottom) * height *1.0/2) ; //2번
 		
-		System.out.println(area);
+//		System.out.println(area);
 	}
 }

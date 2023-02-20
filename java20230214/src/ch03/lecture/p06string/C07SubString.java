@@ -21,6 +21,6 @@ public class C07SubString {
 		//파라미터가 인덱스를 벗어나면 오류
 		String str2 = "java";
 		System.out.println(str2.substring(2,4));
-		System.out.println(str2.substring(2,5));//<<-오류가 발생
+//		System.out.println(str2.substring(2,5));//<<-오류가 발생
 	}
 }

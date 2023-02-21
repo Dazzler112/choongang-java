@@ -5,7 +5,7 @@ public class C01While {
 		//while
 		//반복문(loop)
 		
-		//조거이 true이면 코드블럭 실행
+		//조건이 true이면 코드블럭 실행
 		//코드블럭 실행 후 조건 확인
 		//반복
 		

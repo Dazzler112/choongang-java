@@ -20,7 +20,7 @@ public class C01Switch {
 		default:  //값이 없으면 이게 실행
 			System.out.println("code 4");
 			break;//마지막 브레이크는 생략 가능
-			//defalut문은 꼭 아래에만갈 필요는 없다
+			//default문은 꼭 아래에만갈 필요는 없다
 			//대신 위로 올라올 경우 break를 써줘야하니까
 			//그냥 아래로 고정 시키자
 		}

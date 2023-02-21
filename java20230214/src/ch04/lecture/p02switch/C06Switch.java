@@ -21,7 +21,7 @@ public class C06Switch {
 		}
 		};//expression(식이라는 뜻(1+2같은거)) 방식
 	
-		switch (val) {
+		String res2 = switch (val) {
 		case 1 -> "값"; //화살표는 스테이트먼트 값 1개면 중괄호 + yield 생략 가능
 		
 		case 2 -> "값2";
@@ -30,9 +30,8 @@ public class C06Switch {
 			String r = "값" + val;
 			yield r;
 		}
-		default -> {
-			yield "기본 값;
-		}
+		default ->  "기본 값";
+		
 		};
 	}
 }

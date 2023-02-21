@@ -16,7 +16,7 @@ public class C03ElseIf {
 			System.out.println("code 4");
 		}else {
 			System.out.println("code 5");
-		}//else같은경오는 위에가 다 false여야 실행됨
+		}//else같은경우는 위에가 다 false여야 실행됨
 		System.out.println("실행 이어감.....");
 	}
 }

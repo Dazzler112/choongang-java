@@ -18,7 +18,7 @@ public class C04Random {
 		System.out.println(res3);
 		
 		//ex)로또 번호(1 ~ 45)
-		int res4 = ((int) Math.random() * 45)+1;
+		int res4 = ((int) (Math.random() * 45))+1;
 		System.out.println(res4);
 	}
 }

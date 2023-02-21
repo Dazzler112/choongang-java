@@ -32,6 +32,6 @@ public static void main(String[] args) {
 	case 2,4->"여자";
 	default ->"잘못 입력";
 	};
-	System.out.println("입력된 성별은 ");
+	System.out.println("입력된 성별은 " + gender2 +"입니다.");
 	}
 }

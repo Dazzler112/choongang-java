@@ -94,7 +94,7 @@ public class BankApplicatiton {
 					}
 				}
 			}
-			case 5->{
+			default ->{
 				//종료
 				run = false;
 			}
